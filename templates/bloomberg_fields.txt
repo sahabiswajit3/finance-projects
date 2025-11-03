@@ -1,0 +1,55 @@
+BLOOMBERG FIELD REFERENCE
+==================================================
+
+INCOME STATEMENT FIELDS
+--------------------------------------------------
+SALES_REV_TURN                      | Total Revenue
+GROSS_PROFIT                        | Gross Profit
+EBITDA                              | EBITDA
+OPER_INCOME                         | Operating Income
+EBIT                                | EBIT
+NET_INCOME                          | Net Income
+NORMALIZED_NET_INCOME               | Normalized Net Income
+IS_EPS                              | Earnings Per Share
+CF_CASH_FROM_OPER                   | Operating Cash Flow
+TRAIL_12M_EV_TO_EBITDA              | EV/EBITDA
+
+
+BALANCE SHEET FIELDS
+--------------------------------------------------
+TOTAL_ASSETS                        | Total Assets
+TOTAL_LIABILITIES                   | Total Liabilities
+TOT_DEBT_TO_TOT_ASSET               | Total Debt to Total Assets
+BS_TOT_DEBT                         | Total Debt
+BOOK_VAL_PER_SH                     | Book Value Per Share
+WORKING_CAPITAL                     | Working Capital
+CURR_RATIO                          | Current Ratio
+PX_TO_BOOK_RATIO                    | Price to Book Ratio
+
+
+CASH FLOW FIELDS
+--------------------------------------------------
+CF_CASH_FROM_OPER                   | Operating Cash Flow
+CF_CAP_EXPEND                       | Capital Expenditures
+CF_FREE_CASH_FLOW                   | Free Cash Flow
+CF_DVD_PAID                         | Dividends Paid
+
+
+MARKET DATA FIELDS
+--------------------------------------------------
+CF_DVD_PAID                         | Dividends Paid
+PX_LAST                             | Last Price
+PX_TO_BOOK_RATIO                    | Price to Book Ratio
+PE_RATIO                            | P/E Ratio
+CUR_MKT_CAP                         | Market Capitalization
+ENTERPRISE_VALUE                    | Enterprise Value
+DVD_YIELD                           | Dividend Yield
+AVERAGE_VOLUME                      | Average Volume
+
+
+PERFORMANCE METRICS
+--------------------------------------------------
+RETURN_ON_EQUITY                    | Return on Equity
+RETURN_ON_ASSETS                    | Return on Assets
+RETURN_ON_COMMON_EQUITY             | Return on Common Equity
+RETURN_ON_INV_CAPITAL               | Return on Invested Capital

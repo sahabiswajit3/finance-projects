@@ -41,6 +41,7 @@ data/external/*.csv
 # Analysis output
 analysis/python/*.png
 analysis/python/*.pdf
+analysis/python/output/
 analysis/excel/*.xlsx
 analysis/excel/~$*.xlsx
 
